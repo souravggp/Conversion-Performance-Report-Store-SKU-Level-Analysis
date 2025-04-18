@@ -1,21 +1,64 @@
-Objective: 
-Analyze the provided data and identify key trends and patterns in store-level and SKU-level 
-conversions. Propose recommendations based on your findings to improve sales performance at 
-both levels. 
-Dataset link - 
-https://drive.google.com/file/d/1vfXAP0iPUrItvC9LEyH8yZtqYP7n2FMA/view?usp=drivesdk 
-Conversion Analysis 
-The dataset includes: 
- Store ID 
- SKU ID 
- Total Visits (number of users who visited the store) 
- Transactions (number of successful purchases made) 
- Revenue (total revenue generated from transactions) 
-Tasks: 
- Calculate the conversion rate at both the store level and the SKU level (i.e., Transactions / 
-Total Visits). 
- Identify top-performing and underperforming stores and SKUs based on conversion rates. 
- Highlight 2-3 key trends related to store or SKU performance. 
- Summary 
- Your recommendations and reasoning behind them.# Conversion-Performance-Report-Store-SKU-Level-Analysis
-Conversion Performance Report: Store &amp; SKU Level Analysis
+
+---
+
+## 📌 Objective
+
+- Calculate conversion rates at the store and SKU level.
+- Identify top-performing and underperforming segments.
+- Highlight actionable insights to improve conversions and revenue.
+- Build an interactive Power BI dashboard to visualize trends.
+
+---
+
+## 📊 Key Metrics & Formulas
+
+- **Conversion Rate** = Transactions / Total Visits
+- **Efficiency Score** = Revenue * Conversion Rate
+
+
+---
+
+## 📈 Power BI Dashboard
+
+The Power BI report includes:
+
+- **KPI Cards** – Avg Conversion Rate, Total Revenue, Total Visits
+- **Bar Charts** – Top & Bottom performing stores/SKUs by conversion
+- **Tables** – Detailed SKU and Store performance breakdown
+- **Heatmaps & Scatter Plots** – Correlation and distribution insights
+
+---
+
+## 🧠 Key Insights
+
+- Stores with high conversion but low visits suggest strong product-market fit.
+- SKUs with high visits but poor conversion may indicate pricing or UX issues.
+- Revenue contribution is heavily skewed toward top 5 performing stores.
+
+---
+
+## 🛠️ Tools Used
+
+- **Power BI** – Interactive dashboards & data storytelling
+  
+- **Excel** – Basic validation
+
+---
+
+## 📌 Recommendations
+
+- Invest in boosting footfall in high-conversion stores.
+- Improve merchandising or pricing for low-conversion high-traffic SKUs.
+- Expand inventory of top-performing SKUs across more stores.
+
+---
+
+## 📬 Contact
+
+**Sourav Ghosh**  
+📧 Email: [souravggp06@gmail.com](mailto:souravggp06@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/sourav-ghosh-b85987182](https://www.linkedin.com/in/sourav-ghosh-b85987182)
+
+---
+
+⭐️ *If you found this project insightful, feel free to star the repo or share feedback!*
